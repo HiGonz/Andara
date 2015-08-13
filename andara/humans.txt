@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Hiram González -- Developer -- HiGonz
+
+
+# THANKS
+
+    Juan Carlos Hinojo
+    Abdul Achik
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, PHP
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

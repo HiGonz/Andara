@@ -1,0 +1,19 @@
+img#logoImage {
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(0, 0, 0, 1); -moz-box-shadow:    0px 0px 19px 0px rgba(0, 0, 0, 1); box-shadow:         0px 0px 19px 0px rgba(0, 0, 0, 1);
+}
+
+.form-content-wrap {
+    text-align: center;
+}
+
+div#uri_value {
+    position: relative;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: -56px;
+}
+
+ul#unorder_list_container {
+    padding: inherit;
+}
